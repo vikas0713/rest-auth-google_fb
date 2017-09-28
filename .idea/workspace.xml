@@ -1,0 +1,1197 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b6c89126-c022-4627-b9e3-ea0cfa3b9a2c" name="Default" comment="" />
+    <ignored path="$PROJECT_DIR$/.idea/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DjangoConsoleOptions" custom-start-script="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)">
+    <option name="myCustomStartScript" value="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="settings.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/FbApp/settings.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="284">
+              <caret line="185" column="34" lean-forward="false" selection-start-line="185" selection-start-column="34" selection-end-line="185" selection-end-column="34" />
+              <folding>
+                <element signature="e#308#323#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="urls.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/FbApp/urls.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="140">
+              <caret line="20" column="15" lean-forward="false" selection-start-line="20" selection-start-column="15" selection-end-line="20" selection-end-column="15" />
+              <folding>
+                <element signature="e#639#680#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="utils.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/FbApp/utils.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="170">
+              <caret line="10" column="45" lean-forward="false" selection-start-line="10" selection-start-column="45" selection-end-line="10" selection-end-column="45" />
+              <folding>
+                <element signature="e#103#118#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/templates/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="262">
+              <caret line="133" column="56" lean-forward="true" selection-start-line="133" selection-start-column="56" selection-end-line="133" selection-end-column="56" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="views.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/FbApp/views.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="259">
+              <caret line="24" column="0" lean-forward="false" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
+              <folding>
+                <element signature="e#103#138#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="dummy://restClient/response12.json" root0="SKIP_INSPECTION" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/FbApp/urls.py" />
+        <option value="$PROJECT_DIR$/FbApp/settings.py" />
+        <option value="$PROJECT_DIR$/templates/index.html" />
+        <option value="$PROJECT_DIR$/FbApp/views.py" />
+        <option value="$PROJECT_DIR$/FbApp/utils.py" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="75" />
+    <option name="y" value="16" />
+    <option name="width" value="1281" />
+    <option name="height" value="732" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="FbApp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="FbApp" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="FbApp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="FbApp" type="462c0819:PsiDirectoryNode" />
+              <item name="FbApp" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="Scratches" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$USER_HOME$/envs" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+  </component>
+  <component name="RestClientSettings">
+    <option name="REQUEST_HISTORY">
+      <list>
+        <RestClientRequest>
+          <option name="httpMethod" value="POST" />
+          <option name="urlBase" value="http://dev.deepali.com:8000" />
+          <option name="urlPath" value="/auth/convert-token/" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="*/*" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Cache-Control" />
+                <option name="value" value="no-cache" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parametersEnabled" value="true" />
+          <option name="haveTextToSend" value="true" />
+          <option name="textToSend" value="{&quot;client_id&quot;:&quot;b2VwUpiCGWePrap3y1fg1QdDuxVcmNdtcBOGfZ9a&quot;,&quot;client_secret&quot;:&quot;IxYEGPIuKNR0aq99IzP77ItgOa8R21LpTDbSVy3ppaolHBGY8hMKz74HTB4NzXbmPxhBtAFRO4Co1pUudD2R0Zbpj5IAOK35vrizKe7Q66QdMcT9qhRIeCLktwRNKTua&quot;,&quot;grant_type&quot;:&quot;convert_token&quot;,&quot;token&quot;:&quot;ya29.GlvUBELg3TfwbKj7H2UQwdP2XX4WeNYvP69Q0WEQJaSdgCsrUPIvJczbQozbSHaUlyw3EndVjPT3_73mTKz22U1vjGnEF5FxxPJTSGj4r7o0PSmtEjAC8p6EkCsm&quot;, &quot;backend&quot;:&quot;google-oauth2&quot;}" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="POST" />
+          <option name="urlBase" value="http://dev.deepali.com:8000" />
+          <option name="urlPath" value="/auth/convert-token/" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="*/*" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Cache-Control" />
+                <option name="value" value="no-cache" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parametersEnabled" value="true" />
+          <option name="haveTextToSend" value="true" />
+          <option name="textToSend" value="{&quot;client_id&quot;:&quot;b2VwUpiCGWePrap3y1fg1QdDuxVcmNdtcBOGfZ9a&quot;,&quot;client_secret&quot;:&quot;IxYEGPIuKNR0aq99IzP77ItgOa8R21LpTDbSVy3ppaolHBGY8hMKz74HTB4NzXbmPxhBtAFRO4Co1pUudD2R0Zbpj5IAOK35vrizKe7Q66QdMcT9qhRIeCLktwRNKTua&quot;,&quot;grant_type&quot;:&quot;convert_token&quot;,&quot;token&quot;:&quot;ya29.GlzUBAIrwspS-fm_iwiVzdwN4UcgLVDStNQAHrvMlTERJEhnKDi4CcEMSjZDavejtODam7xnuOLbdaWmZc-xoCkANTE8qf40226TJk_LIyEqAJa6j0kyVl7Y3QnbRg&quot;, &quot;backend&quot;:&quot;google-oauth2&quot;}" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="POST" />
+          <option name="urlBase" value="http://dev.deepali.com:8000" />
+          <option name="urlPath" value="/auth/convert-token/" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="*/*" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Cache-Control" />
+                <option name="value" value="no-cache" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parametersEnabled" value="true" />
+          <option name="haveTextToSend" value="true" />
+          <option name="textToSend" value="{&quot;client_id&quot;:&quot;b2VwUpiCGWePrap3y1fg1QdDuxVcmNdtcBOGfZ9a&quot;,&quot;client_secret&quot;:&quot;IxYEGPIuKNR0aq99IzP77ItgOa8R21LpTDbSVy3ppaolHBGY8hMKz74HTB4NzXbmPxhBtAFRO4Co1pUudD2R0Zbpj5IAOK35vrizKe7Q66QdMcT9qhRIeCLktwRNKTua&quot;,&quot;grant_type&quot;:&quot;convert_token&quot;,&quot;token&quot;:&quot;&quot;ya29.GlzUBAIrwspS-fm_iwiVzdwN4UcgLVDStNQAHrvMlTERJEhnKDi4CcEMSjZDavejtODam7xnuOLbdaWmZc-xoCkANTE8qf40226TJk_LIyEqAJa6j0kyVl7Y3QnbRg&quot;&quot;, &quot;backend&quot;:&quot;google-oauth2&quot;}" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="POST" />
+          <option name="urlBase" value="http://dev.deepali.com:8000" />
+          <option name="urlPath" value="/auth/convert-token/" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="*/*" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Cache-Control" />
+                <option name="value" value="no-cache" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parametersEnabled" value="true" />
+          <option name="haveTextToSend" value="true" />
+          <option name="textToSend" value="{&quot;client_id&quot;:&quot;b2VwUpiCGWePrap3y1fg1QdDuxVcmNdtcBOGfZ9a&quot;,&quot;client_secret&quot;:&quot;IxYEGPIuKNR0aq99IzP77ItgOa8R21LpTDbSVy3ppaolHBGY8hMKz74HTB4NzXbmPxhBtAFRO4Co1pUudD2R0Zbpj5IAOK35vrizKe7Q66QdMcT9qhRIeCLktwRNKTua&quot;,&quot;grant_type&quot;:&quot;convert_token&quot;,&quot;token&quot;:&quot;eyJhbGciOiJSUzI1NiIsImtpZCI6IjNiMGZjMTE5NjJhZDE2ZTQ5ZDU1YTI2ODE2YzVhZDBkM2Y2YjhhODMifQ.eyJhenAiOiI0MjQ4NTAxOTQzMTktNzhiZ3RzODU5anFuYnVja2kyOXNpdTNnbWJtY2h2Y2QuYXBwcy5nb29nbGV1c2VyY29udGVudC5jb20iLCJhdWQiOiI0MjQ4NTAxOTQzMTktNzhiZ3RzODU5anFuYnVja2kyOXNpdTNnbWJtY2h2Y2QuYXBwcy5nb29nbGV1c2VyY29udGVudC5jb20iLCJzdWIiOiIxMTcyOTg5MzY2MDg5Nzc1ODMwNzEiLCJlbWFpbCI6InNtYnV6emluY0BnbWFpbC5jb20iLCJlbWFpbF92ZXJpZmllZCI6dHJ1ZSwiYXRfaGFzaCI6InJzbE44MjFsdlJvcmZIQXlkVUFjS1EiLCJpc3MiOiJhY2NvdW50cy5nb29nbGUuY29tIiwianRpIjoiZjA0Y2E4MDQzOWNhZTUzMTZkNGFmOWQ0NDNiNjYzOWJlMTk0YjNkOSIsImlhdCI6MTUwNjUxMjc3MiwiZXhwIjoxNTA2NTE2MzcyLCJuYW1lIjoic21hcnRidXp6IGluYyIsInBpY3R1cmUiOiJodHRwczovL2xoNi5nb29nbGV1c2VyY29udGVudC5jb20vLXdBUUJVNDVVbVRZL0FBQUFBQUFBQUFJL0FBQUFBQUFBQUFBL0FDbkJlUGIxNi1SVmtvdnd6NERoaWF3a3JNU1JvS3lTQmcvczk2LWMvcGhvdG8uanBnIiwiZ2l2ZW5fbmFtZSI6InNtYXJ0YnV6eiIsImZhbWlseV9uYW1lIjoiaW5jIiwibG9jYWxlIjoiZW4ifQ.jqGTpzhxqBZqCyGGN8axLuNNa-uMPmC1nVtGM64EIYv-0mfJd5MjHE-oZXMu9q35jjSyBCvShLNybYhMlFo74Ffv0Gt0xRx11vGx7d29c9HFjDhJPKwP42rtnh50VAPGQFJJL0O5fNbZkxnSiYpO1dd7eyxWiF6GNl3w3x6z5pNO9RKfq9Dy7rL1-n8qAF78jiacQQ4njIMKjjtD_7OcxPdGSbph3JZmbcmeCxyxELcrDDzfX-4OAgZaMUNjtd1swFZ4kA1KF52-_r5nLvBmKGsiYVlzAn5q8gdy8G3Brltg7OzZhrFVJv-9vIkykCIqYypbtf2XfpIdZJ6IO3TB3Q&quot;, &quot;backend&quot;:&quot;google-oauth2&quot;}" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="POST" />
+          <option name="urlBase" value="http://dev.deepali.com:8000" />
+          <option name="urlPath" value="/auth/convert-token/" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="*/*" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Cache-Control" />
+                <option name="value" value="no-cache" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parametersEnabled" value="true" />
+          <option name="haveTextToSend" value="true" />
+          <option name="textToSend" value="{&quot;client_id&quot;:&quot;b2VwUpiCGWePrap3y1fg1QdDuxVcmNdtcBOGfZ9a&quot;,&quot;client_secret&quot;:&quot;IxYEGPIuKNR0aq99IzP77ItgOa8R21LpTDbSVy3ppaolHBGY8hMKz74HTB4NzXbmPxhBtAFRO4Co1pUudD2R0Zbpj5IAOK35vrizKe7Q66QdMcT9qhRIeCLktwRNKTua&quot;,&quot;grant_type&quot;:&quot;convert_token&quot;,&quot;token&quot;:&quot;eyJhbGciOiJSUzI1NiIsImtpZCI6IjNiMGZjMTE5NjJhZDE2ZTQ5ZDU1YTI2ODE2YzVhZDBkM2Y2YjhhODMifQ.eyJhenAiOiI0MjQ4NTAxOTQzMTktNzhiZ3RzODU5anFuYnVja2kyOXNpdTNnbWJtY2h2Y2QuYXBwcy5nb29nbGV1c2VyY29udGVudC5jb20iLCJhdWQiOiI0MjQ4NTAxOTQzMTktNzhiZ3RzODU5anFuYnVja2kyOXNpdTNnbWJtY2h2Y2QuYXBwcy5nb29nbGV1c2VyY29udGVudC5jb20iLCJzdWIiOiIxMTcyOTg5MzY2MDg5Nzc1ODMwNzEiLCJlbWFpbCI6InNtYnV6emluY0BnbWFpbC5jb20iLCJlbWFpbF92ZXJpZmllZCI6dHJ1ZSwiYXRfaGFzaCI6IlFKTDdaT2ZTRFhTaVJqcUliSDNNbGciLCJpc3MiOiJhY2NvdW50cy5nb29nbGUuY29tIiwianRpIjoiODBkMDkyNDY4NGI2ZDY4NzVmZmQ3MTZkYzdiZTJkNTZiMDFlZTc1YSIsImlhdCI6MTUwNjUxMjM4NiwiZXhwIjoxNTA2NTE1OTg2LCJuYW1lIjoic21hcnRidXp6IGluYyIsInBpY3R1cmUiOiJodHRwczovL2xoNi5nb29nbGV1c2VyY29udGVudC5jb20vLXdBUUJVNDVVbVRZL0FBQUFBQUFBQUFJL0FBQUFBQUFBQUFBL0FDbkJlUGIxNi1SVmtvdnd6NERoaWF3a3JNU1JvS3lTQmcvczk2LWMvcGhvdG8uanBnIiwiZ2l2ZW5fbmFtZSI6InNtYXJ0YnV6eiIsImZhbWlseV9uYW1lIjoiaW5jIiwibG9jYWxlIjoiZW4ifQ.cC23x5mYNKSQm1zFGf6L1ZiJgctvau_LWoE-bzWuTF6Bj0KwtzK41aFYA1L4B1sckK1DfMjJ-1oVfbSAKx_6puRaZlpaldlo0YSYyL1M4UH5dliYz_n3V0TFW1-h8LRSjEPAWu5Jg4Fm9Tbybru7N5eFbYL-adTvYElHBPmI1CHeG6dqlZ0L1k8EqO1FV6xYByLNQJsnXgcTbylhzvZt66KP1iTPM3uY12N6zUWzH9DYfOx07xcCIxxnkDSkueJ1qpE4pL9uSFDj1I93G26DdpEWutvyMvnqY1uhQrnC-7ysR_iTl6GJFxpSHOYjyBlueYj3uYx5hFu9Og6f4rovVw&quot;, &quot;backend&quot;:&quot;google-oauth2&quot;}" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="POST" />
+          <option name="urlBase" value="http://dev.deepali.com:8000" />
+          <option name="urlPath" value="/auth/convert-token/" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="*/*" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Cache-Control" />
+                <option name="value" value="no-cache" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parametersEnabled" value="true" />
+          <option name="haveTextToSend" value="true" />
+          <option name="textToSend" value="{&quot;client_id&quot;:&quot;b2VwUpiCGWePrap3y1fg1QdDuxVcmNdtcBOGfZ9a&quot;,&quot;client_secret&quot;:&quot;IxYEGPIuKNR0aq99IzP77ItgOa8R21LpTDbSVy3ppaolHBGY8hMKz74HTB4NzXbmPxhBtAFRO4Co1pUudD2R0Zbpj5IAOK35vrizKe7Q66QdMcT9qhRIeCLktwRNKTua&quot;,&quot;grant_type&quot;:&quot;convert_token&quot;,&quot;token&quot;:&quot;eyJhbGciOiJSUzI1NiIsImtpZCI6IjNiMGZjMTE5NjJhZDE2ZTQ5ZDU1YTI2ODE2YzVhZDBkM2Y2YjhhODMifQ.eyJhenAiOiI1NzQ2MjQ3NDg1NzEtdXM1N3VhZ2s5bm00NThpbWx1Zzd0NW05aGZlbnZ1OTQuYXBwcy5nb29nbGV1c2VyY29udGVudC5jb20iLCJhdWQiOiI1NzQ2MjQ3NDg1NzEtdXM1N3VhZ2s5bm00NThpbWx1Zzd0NW05aGZlbnZ1OTQuYXBwcy5nb29nbGV1c2VyY29udGVudC5jb20iLCJzdWIiOiIxMTcyOTg5MzY2MDg5Nzc1ODMwNzEiLCJlbWFpbCI6InNtYnV6emluY0BnbWFpbC5jb20iLCJlbWFpbF92ZXJpZmllZCI6dHJ1ZSwiYXRfaGFzaCI6ImdQWVY2MmNIVlhXVGs0aXRFLVV3YlEiLCJpc3MiOiJhY2NvdW50cy5nb29nbGUuY29tIiwianRpIjoiMTRlNDExMDIyMjVkZTI1Zjc5OTU1YTgxM2E2MGUyZGQzMGQyMTc4MCIsImlhdCI6MTUwNjUxMTQ0OSwiZXhwIjoxNTA2NTE1MDQ5LCJuYW1lIjoic21hcnRidXp6IGluYyIsInBpY3R1cmUiOiJodHRwczovL2xoNi5nb29nbGV1c2VyY29udGVudC5jb20vLXdBUUJVNDVVbVRZL0FBQUFBQUFBQUFJL0FBQUFBQUFBQUFBL0FDbkJlUGIxNi1SVmtvdnd6NERoaWF3a3JNU1JvS3lTQmcvczk2LWMvcGhvdG8uanBnIiwiZ2l2ZW5fbmFtZSI6InNtYXJ0YnV6eiIsImZhbWlseV9uYW1lIjoiaW5jIiwibG9jYWxlIjoiZW4ifQ.KITfhg8U_Cb2udC0sQ_is8AsgINvy7W0LnOQuzn3j1Em0OuoioXPCfyA8-eS19mKNtIZNg0HVnF6N4AYufLwE5fb1Q_fmsycP0B_mMb8XNtaR4nTeHrGehizNuW2d1JJITPLo-x-uS4fIv95g4fuqRKDUukzCDEJlN3fgTan8QnUtr1ZGKNkH3DjmV8XH9ERJ_StAkUr7HNaP2V_HRew3T_aziz2F6rmoIAuV4d1m8qt4-99K7TPDIltVYP-MR0gjaiONH-uKUyZiFgg9WLYGErRkFrE6VStqsPDg3PTZC8UaadBfVNJac-LkvxV8YDNNg1APxWqExTztc_2GaPKHA&quot;, &quot;backend&quot;:&quot;google-oauth2&quot;}" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="POST" />
+          <option name="urlBase" value="http://dev.deepali.com:8000" />
+          <option name="urlPath" value="/auth/convert-token/" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="*/*" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Cache-Control" />
+                <option name="value" value="no-cache" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parametersEnabled" value="true" />
+          <option name="haveTextToSend" value="true" />
+          <option name="textToSend" value="{&quot;client_id&quot;:&quot;b2VwUpiCGWePrap3y1fg1QdDuxVcmNdtcBOGfZ9a&quot;,&quot;client_secret&quot;:&quot;IxYEGPIuKNR0aq99IzP77ItgOa8R21LpTDbSVy3ppaolHBGY8hMKz74HTB4NzXbmPxhBtAFRO4Co1pUudD2R0Zbpj5IAOK35vrizKe7Q66QdMcT9qhRIeCLktwRNKTua&quot;,&quot;grant_type&quot;:&quot;convert_token&quot;,&quot;token&quot;:&quot;eyJhbGciOiJSUzI1NiIsImtpZCI6IjNiMGZjMTE5NjJhZDE2ZTQ5ZDU1YTI2ODE2YzVhZDBkM2Y2YjhhODMifQ.eyJhenAiOiI1NzQ2MjQ3NDg1NzEtdXM1N3VhZ2s5bm00NThpbWx1Zzd0NW05aGZlbnZ1OTQuYXBwcy5nb29nbGV1c2VyY29udGVudC5jb20iLCJhdWQiOiI1NzQ2MjQ3NDg1NzEtdXM1N3VhZ2s5bm00NThpbWx1Zzd0NW05aGZlbnZ1OTQuYXBwcy5nb29nbGV1c2VyY29udGVudC5jb20iLCJzdWIiOiIxMDY0NzM2MTI0MDMyMzQ3MjM5NzQiLCJlbWFpbCI6ImRlZXBhbGlwb3BsaTU3QGdtYWlsLmNvbSIsImVtYWlsX3ZlcmlmaWVkIjp0cnVlLCJhdF9oYXNoIjoiYk5ISXNSR3NWVXg5b2JNWTJPcml1ZyIsImlzcyI6ImFjY291bnRzLmdvb2dsZS5jb20iLCJqdGkiOiI5NjY0YmQzY2Q0MTY4YmIxYTliNTIzYjk4MzhkMWQ1MjczMGUzMDA1IiwiaWF0IjoxNTA2NTA5Mjg1LCJleHAiOjE1MDY1MTI4ODUsIm5hbWUiOiJEZWVwYWxpIFBvcGxpIiwicGljdHVyZSI6Imh0dHBzOi8vbGgzLmdvb2dsZXVzZXJjb250ZW50LmNvbS8tdFJQS2VuQWNySzgvQUFBQUFBQUFBQUkvQUFBQUFBQUFBQUEvQUNuQmVQYURnX1pjX1hxS2pNYVdlbUYxSnNfc21Rbkg3QS9zOTYtYy9waG90by5qcGciLCJnaXZlbl9uYW1lIjoiRGVlcGFsaSIsImZhbWlseV9uYW1lIjoiUG9wbGkiLCJsb2NhbGUiOiJlbiJ9.wKp4ZempuUFSfnPu-zfYM4YhdjNHI91vTc0M7kKYxGAw-bRAbM2LXXR99Bu09dv3fbitq5iE_vZsUy4VK9pI_LnU0-WM8_uPxi26vtBuh5n7DLc7zRvIK0w8WMhO17VD0hgFiQpPJ09gRODk2BAl9yfoN8_Xw4gVAod_4j_K3mNYz2vNxL3n3t7H3k11mnIef7R9_gl2KQI85ZiLRA-SCftAPb1RjR6EWqLai2n-XckFiZ-AGbaCyUzYjrv22hS16zvTQmQVgQwpZ2DdERkzV_Ox5OGrcqkqpL58aGxQ4VwQH9mbiGKquY_55uA3lhoK0GwXA70yikB0wE_DdAS96A&quot;, &quot;backend&quot;:&quot;google-oauth2&quot;}" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="POST" />
+          <option name="urlBase" value="http://dev.deepali.com:8000" />
+          <option name="urlPath" value="/auth/convert-token/" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="*/*" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Cache-Control" />
+                <option name="value" value="no-cache" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parametersEnabled" value="true" />
+          <option name="haveTextToSend" value="true" />
+          <option name="textToSend" value="{&quot;client_id&quot;:&quot;b2VwUpiCGWePrap3y1fg1QdDuxVcmNdtcBOGfZ9a&quot;,&quot;client_secret&quot;:&quot;IxYEGPIuKNR0aq99IzP77ItgOa8R21LpTDbSVy3ppaolHBGY8hMKz74HTB4NzXbmPxhBtAFRO4Co1pUudD2R0Zbpj5IAOK35vrizKe7Q66QdMcT9qhRIeCLktwRNKTua&quot;,&quot;grant_type&quot;:&quot;convert_token&quot;,&quot;token&quot;:&quot;eyJhbGciOiJSUzI1NiIsImtpZCI6IjNiMGZjMTE5NjJhZDE2ZTQ5ZDU1YTI2ODE2YzVhZDBkM2Y2YjhhODMifQ.eyJhenAiOiI1NzQ2MjQ3NDg1NzEtdXM1N3VhZ2s5bm00NThpbWx1Zzd0NW05aGZlbnZ1OTQuYXBwcy5nb29nbGV1c2VyY29udGVudC5jb20iLCJhdWQiOiI1NzQ2MjQ3NDg1NzEtdXM1N3VhZ2s5bm00NThpbWx1Zzd0NW05aGZlbnZ1OTQuYXBwcy5nb29nbGV1c2VyY29udGVudC5jb20iLCJzdWIiOiIxMDY0NzM2MTI0MDMyMzQ3MjM5NzQiLCJlbWFpbCI6ImRlZXBhbGlwb3BsaTU3QGdtYWlsLmNvbSIsImVtYWlsX3ZlcmlmaWVkIjp0cnVlLCJhdF9oYXNoIjoiYk5ISXNSR3NWVXg5b2JNWTJPcml1ZyIsImlzcyI6ImFjY291bnRzLmdvb2dsZS5jb20iLCJqdGkiOiI5NjY0YmQzY2Q0MTY4YmIxYTliNTIzYjk4MzhkMWQ1MjczMGUzMDA1IiwiaWF0IjoxNTA2NTA5Mjg1LCJleHAiOjE1MDY1MTI4ODUsIm5hbWUiOiJEZWVwYWxpIFBvcGxpIiwicGljdHVyZSI6Imh0dHBzOi8vbGgzLmdvb2dsZXVzZXJjb250ZW50LmNvbS8tdFJQS2VuQWNySzgvQUFBQUFBQUFBQUkvQUFBQUFBQUFBQUEvQUNuQmVQYURnX1pjX1hxS2pNYVdlbUYxSnNfc21Rbkg3QS9zOTYtYy9waG90by5qcGciLCJnaXZlbl9uYW1lIjoiRGVlcGFsaSIsImZhbWlseV9uYW1lIjoiUG9wbGkiLCJsb2NhbGUiOiJlbiJ9.wKp4ZempuUFSfnPu-zfYM4YhdjNHI91vTc0M7kKYxGAw-bRAbM2LXXR99Bu09dv3fbitq5iE_vZsUy4VK9pI_LnU0-WM8_uPxi26vtBuh5n7DLc7zRvIK0w8WMhO17VD0hgFiQpPJ09gRODk2BAl9yfoN8_Xw4gVAod_4j_K3mNYz2vNxL3n3t7H3k11mnIef7R9_gl2KQI85ZiLRA-SCftAPb1RjR6EWqLai2n-XckFiZ-AGbaCyUzYjrv22hS16zvTQmQVgQwpZ2DdERkzV_Ox5OGrcqkqpL58aGxQ4VwQH9mbiGKquY_55uA3lhoK0GwXA70yikB0wE_DdAS96A&quot;, &quot;backend&quot;:&quot;google&quot;}" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="POST" />
+          <option name="urlBase" value="http://dev.deepali.com:8000" />
+          <option name="urlPath" value="/auth/convert-token/" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="*/*" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Cache-Control" />
+                <option name="value" value="no-cache" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parametersEnabled" value="true" />
+          <option name="haveTextToSend" value="true" />
+          <option name="textToSend" value="{&quot;client_id&quot;:&quot;b2VwUpiCGWePrap3y1fg1QdDuxVcmNdtcBOGfZ9a&quot;,&quot;client_secret&quot;:&quot;IxYEGPIuKNR0aq99IzP77ItgOa8R21LpTDbSVy3ppaolHBGY8hMKz74HTB4NzXbmPxhBtAFRO4Co1pUudD2R0Zbpj5IAOK35vrizKe7Q66QdMcT9qhRIeCLktwRNKTua&quot;,&quot;grant_type&quot;:&quot;convert_token&quot;,&quot;token&quot;:&quot;EAAD3nMkLcdwBAC6PtDIW2jv6GF66v6EGZArdDS9vq2B6WYBWOjiI9V4wZCZADKCZC8WZCKMGXHtIjuQwzLAeYgsZBQTVcG2IQq4vQxRisyauhKUXmsUe96ir3X7H4uzPDBMejapn93nNZB4yt8EZAA68RVcfN9ZCyMN3QFJ6qeWXMJTA6HbRwIRil1uFrYP9Koohz5OyCKbzZBXgZDZD&quot;, &quot;backend&quot;:&quot;facebook&quot;}" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="POST" />
+          <option name="urlBase" value="http://dev.deepali.com:8000" />
+          <option name="urlPath" value="/auth/convert-token/" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="*/*" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Cache-Control" />
+                <option name="value" value="no-cache" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parametersEnabled" value="true" />
+          <option name="haveTextToSend" value="true" />
+          <option name="textToSend" value="{&quot;client_id&quot;:&quot;5UsPOgMawiLtncNZAgJLTN459icV09vx2rUmLkpV&quot;,&quot;client_secret&quot;:&quot;cwBp2bmc92Wl2UgtMfjnyTMiUH0BOLTtk8POMPyOgmoetlsa3tQasjuhsjnXNVtfvQql4A5Tq3gO6dMe3WjJyKhMIJyG9DdFIPtk9I8tjp4dUFaDB1waUUXsEaYHoDQw&quot;,&quot;grant_type&quot;:&quot;convert_token&quot;,&quot;token&quot;:&quot;EAAD3nMkLcdwBAC6PtDIW2jv6GF66v6EGZArdDS9vq2B6WYBWOjiI9V4wZCZADKCZC8WZCKMGXHtIjuQwzLAeYgsZBQTVcG2IQq4vQxRisyauhKUXmsUe96ir3X7H4uzPDBMejapn93nNZB4yt8EZAA68RVcfN9ZCyMN3QFJ6qeWXMJTA6HbRwIRil1uFrYP9Koohz5OyCKbzZBXgZDZD&quot;, &quot;backend&quot;:&quot;facebook&quot;}" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="POST" />
+          <option name="urlBase" value="http://dev.deepali.com:8000" />
+          <option name="urlPath" value="/auth/convert-token/" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="*/*" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Cache-Control" />
+                <option name="value" value="no-cache" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parametersEnabled" value="true" />
+          <option name="haveTextToSend" value="true" />
+          <option name="textToSend" value="{&quot;client_id&quot;:&quot;5UsPOgMawiLtncNZAgJLTN459icV09vx2rUmLkpV&quot;,&quot;client_secret&quot;:&quot;cwBp2bmc92Wl2UgtMfjnyTMiUH0BOLTtk8POMPyOgmoetlsa3tQasjuhsjnXNVtfvQql4A5Tq3gO6dMe3WjJyKhMIJyG9DdFIPtk9I8tjp4dUFaDB1waUUXsEaYHoDQw&quot;,&quot;grant_type&quot;:&quot;public_profile&quot;,&quot;token&quot;:&quot;EAAD3nMkLcdwBAC6PtDIW2jv6GF66v6EGZArdDS9vq2B6WYBWOjiI9V4wZCZADKCZC8WZCKMGXHtIjuQwzLAeYgsZBQTVcG2IQq4vQxRisyauhKUXmsUe96ir3X7H4uzPDBMejapn93nNZB4yt8EZAA68RVcfN9ZCyMN3QFJ6qeWXMJTA6HbRwIRil1uFrYP9Koohz5OyCKbzZBXgZDZD&quot;, &quot;backend&quot;:&quot;facebook&quot;}" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="POST" />
+          <option name="urlBase" value="http://dev.deepali.com:8000" />
+          <option name="urlPath" value="/auth/convert-token/" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="*/*" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Cache-Control" />
+                <option name="value" value="no-cache" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parametersEnabled" value="true" />
+          <option name="haveTextToSend" value="true" />
+          <option name="textToSend" value="{&quot;grant_type&quot;:&quot;convert_token&quot;,&quot;token&quot;:&quot;EAAD3nMkLcdwBAC6PtDIW2jv6GF66v6EGZArdDS9vq2B6WYBWOjiI9V4wZCZADKCZC8WZCKMGXHtIjuQwzLAeYgsZBQTVcG2IQq4vQxRisyauhKUXmsUe96ir3X7H4uzPDBMejapn93nNZB4yt8EZAA68RVcfN9ZCyMN3QFJ6qeWXMJTA6HbRwIRil1uFrYP9Koohz5OyCKbzZBXgZDZD&quot;, &quot;backend&quot;:&quot;facebook&quot;}" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="POST" />
+          <option name="urlBase" value="http://dev.deepali.com:8000" />
+          <option name="urlPath" value="/auth/convert-token/" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="*/*" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Cache-Control" />
+                <option name="value" value="no-cache" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parametersEnabled" value="true" />
+          <option name="haveTextToSend" value="true" />
+          <option name="textToSend" value="{&quot;client_id&quot;:&quot;b2VwUpiCGWePrap3y1fg1QdDuxVcmNdtcBOGfZ9a&quot;,&quot;client_secret&quot;:&quot;IxYEGPIuKNR0aq99IzP77ItgOa8R21LpTDbSVy3ppaolHBGY8hMKz74HTB4NzXbmPxhBtAFRO4Co1pUudD2R0Zbpj5IAOK35vrizKe7Q66QdMcT9qhRIeCLktwRNKTua&quot;,&quot;grant_type&quot;:&quot;convert_token&quot;,&quot;token&quot;:&quot;EAAD3nMkLcdwBAH5eLZAipy2us5miN3z3yZCYTXGhhOQZCiXcKUf1lIqmRQ89xgUCXGTSNlADyvZC0Ljw2xr4s3wyQdkcTts9Ns4MUdV6RtNFyQpBlStEd5ZA9dLRKfZBGRkzAevZBF7BHjTLmR5YzYdeNJZCcya4x3HE6n4G3nY8l9z15krNY5OGzgawuRzwIXqIkdFWUNKenAZDZD&quot;, &quot;backend&quot;:&quot;facebook&quot;}" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="POST" />
+          <option name="urlBase" value="http://dev.deepali.com:8000" />
+          <option name="urlPath" value="/auth/login/" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="*/*" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Cache-Control" />
+                <option name="value" value="no-cache" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parametersEnabled" value="true" />
+          <option name="haveTextToSend" value="true" />
+          <option name="textToSend" value="{&quot;client_id&quot;:&quot;b2VwUpiCGWePrap3y1fg1QdDuxVcmNdtcBOGfZ9a&quot;,&quot;client_secret&quot;:&quot;IxYEGPIuKNR0aq99IzP77ItgOa8R21LpTDbSVy3ppaolHBGY8hMKz74HTB4NzXbmPxhBtAFRO4Co1pUudD2R0Zbpj5IAOK35vrizKe7Q66QdMcT9qhRIeCLktwRNKTua&quot;,&quot;grant_type&quot;:&quot;convert_token&quot;,&quot;token&quot;:&quot;EAAD3nMkLcdwBAH5eLZAipy2us5miN3z3yZCYTXGhhOQZCiXcKUf1lIqmRQ89xgUCXGTSNlADyvZC0Ljw2xr4s3wyQdkcTts9Ns4MUdV6RtNFyQpBlStEd5ZA9dLRKfZBGRkzAevZBF7BHjTLmR5YzYdeNJZCcya4x3HE6n4G3nY8l9z15krNY5OGzgawuRzwIXqIkdFWUNKenAZDZD&quot;, &quot;backend&quot;:&quot;facebook&quot;}" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="POST" />
+          <option name="urlBase" value="http://dev.deepali.com:8000" />
+          <option name="urlPath" value="/secured" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="*/*" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Cache-Control" />
+                <option name="value" value="no-cache" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Authorization" />
+                <option name="value" value="Bearer facebook mhV1wF7KD1SJLzdKnB858VC5s67UJY" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parametersEnabled" value="true" />
+          <option name="haveTextToSend" value="true" />
+          <option name="textToSend" value="{&quot;client_id&quot;:&quot;b2VwUpiCGWePrap3y1fg1QdDuxVcmNdtcBOGfZ9a&quot;,&quot;client_secret&quot;:&quot;IxYEGPIuKNR0aq99IzP77ItgOa8R21LpTDbSVy3ppaolHBGY8hMKz74HTB4NzXbmPxhBtAFRO4Co1pUudD2R0Zbpj5IAOK35vrizKe7Q66QdMcT9qhRIeCLktwRNKTua&quot;,&quot;grant_type&quot;:&quot;convert_token&quot;,&quot;token&quot;:&quot;EAAD3nMkLcdwBAH5eLZAipy2us5miN3z3yZCYTXGhhOQZCiXcKUf1lIqmRQ89xgUCXGTSNlADyvZC0Ljw2xr4s3wyQdkcTts9Ns4MUdV6RtNFyQpBlStEd5ZA9dLRKfZBGRkzAevZBF7BHjTLmR5YzYdeNJZCcya4x3HE6n4G3nY8l9z15krNY5OGzgawuRzwIXqIkdFWUNKenAZDZD&quot;, &quot;backend&quot;:&quot;facebook&quot;}" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="POST" />
+          <option name="urlBase" value="http://dev.deepali.com:8000" />
+          <option name="urlPath" value="/api/login/social/jwt/" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="*/*" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Cache-Control" />
+                <option name="value" value="no-cache" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parametersEnabled" value="true" />
+          <option name="haveTextToSend" value="true" />
+          <option name="textToSend" value="{&quot;code&quot;:&quot;EAAD3nMkLcdwBAEPdZAO0OfRDXvXZB0ufVm52tFWbWyCfDf4qAsUM2cTMRAQIF2yWAAs6FCmwXXjWEiHXdVqzbf5nndQ8GkaefG8v12HXUvprZCtKIsRhDO15ZBOV8SqUVLMa6WpZBlFnKL1K58dUUPYzOfj2y9zjCtkDFZBF1vG1CKIZCjc76MHam0SwuIHSkxzea7rOt0SvwZDZD&quot;, &quot;provider&quot;:&quot;facebook&quot;}" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="POST" />
+          <option name="urlBase" value="http://dev.deepali.com:8000" />
+          <option name="urlPath" value="/api/login/social/jwt/" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="*/*" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Cache-Control" />
+                <option name="value" value="no-cache" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parametersEnabled" value="true" />
+          <option name="haveTextToSend" value="true" />
+          <option name="textToSend" value="{&quot;code&quot;:&quot;NzfloNj4aN4sW6BQ3h0oPEamFplqA_C4JCvJz-vBM_0.eyJhbGdvcml0aG0iOiJITUFDLVNIQTI1NiIsImNvZGUiOiJBUUFvQnl4UlMwUGI5bGZBQzR6Sm1fdndxN3lUdlBmeFNXUFJMUGdCS0Q2OWpKWFFsRWxsZTdVV1FLeTlmWUJ2cWRWQVdBeHlvV252ZXhjaTQxbHk5amZxZGNYQTJmSTR2YlhnV1VMQlBTV05LQm1LQ1oyZnBPcFRTbkl4RzR0Ymo3ZEZ3TmlXODQ2NUVxZ01UenRDN3F1YkxONUh4dDRheUptLV9rZzExOVNkbi1JVjI5ZTZMcmVzZV9yclJYSHZVZkVsNDk1REtkU2dQbk1vV1dmTzN3TUEtbml1VzFDNVRUUXc5ZDRfQjBCMU5GZklRa25fa3lXR2hqdDI3cEhXUkdRZjJqUFFLVHZGRk0yWXFZSk5JWGxMWC11NEtCSmRfa3NhcDRQVjlWX3g2ekotUG1zal8tOWxpWkZxUVBBdG44alpkOVgwX1RDbkdGTHNSOEFOdHgxSSIsImlzc3VlZF9hdCI6MTUwNjQ5OTM2MiwidXNlcl9pZCI6IjE2OTExNTA1Mzc1NzU1NTUifQ&quot;, &quot;provider&quot;:&quot;facebook&quot;}" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="POST" />
+          <option name="urlBase" value="http://dev.deepali.com:8000" />
+          <option name="urlPath" value="/api/login/social/jwt/" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="*/*" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Cache-Control" />
+                <option name="value" value="no-cache" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parametersEnabled" value="true" />
+          <option name="haveTextToSend" value="true" />
+          <option name="textToSend" value="{&quot;code&quot;:&quot;EAAD3nMkLcdwBAJFGvyzF89UNglHP3FREAJMNQrfSGw7JzuZBY6CJbGl9bVBSwb6yDPDVGOhkhuTYL2kMaYr4QO8ivE0SoqqtlI7ZCyf0WMBQRZCOYF2fDSDI25hEDmn4KFeMCE1PB38KVLodsWZCQ1Gx3kZCNLfeRhkfrCN3vm7egaeSCO2LkRJ8PafauP9soEZBhm1RhpZBwZDZD&quot;, &quot;provider&quot;:&quot;facebook&quot;}" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="POST" />
+          <option name="urlBase" value="http://dev.deepali.com:8000" />
+          <option name="urlPath" value="/api/login/social/jwt/" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="*/*" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Cache-Control" />
+                <option name="value" value="no-cache" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parametersEnabled" value="true" />
+          <option name="haveTextToSend" value="true" />
+          <option name="textToSend" value="{&quot;code&quot;:&quot;EAAD3nMkLcdwBAC6PtDIW2jv6GF66v6EGZArdDS9vq2B6WYBWOjiI9V4wZCZADKCZC8WZCKMGXHtIjuQwzLAeYgsZBQTVcG2IQq4vQxRisyauhKUXmsUe96ir3X7H4uzPDBMejapn93nNZB4yt8EZAA68RVcfN9ZCyMN3QFJ6qeWXMJTA6HbRwIRil1uFrYP9Koohz5OyCKbzZBXgZDZD&quot;, &quot;provider&quot;:&quot;facebook&quot;}" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="POST" />
+          <option name="urlBase" value="http://dev.deepali.com:8000" />
+          <option name="urlPath" value="/api/login/social/jwt/" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="*/*" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Cache-Control" />
+                <option name="value" value="no-cache" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parametersEnabled" value="true" />
+          <option name="haveTextToSend" value="true" />
+          <option name="textToSend" value="{&quot;code&quot;:&quot;EAAD3nMkLcdwBAC6PtDIW2jv6GF66v6EGZArdDS9vq2B6WYBWOjiI9V4wZCZADKCZC8WZCKMGXHtIjuQwzLAeYgsZBQTVcG2IQq4vQxRisyauhKUXmsUe96ir3X7H4uzPDBMejapn93nNZB4yt8EZAA68RVcfN9ZCyMN3QFJ6qeWXMJTA6HbRwIRil1uFrYP9Koohz5OyCKbzZBXgZDZD&quot;, &quot;provider&quot;:&quot;facebook&quot;, &quot;&quot;}" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="POST" />
+          <option name="urlBase" value="http://dev.deepali.com:8000" />
+          <option name="urlPath" value="/api/login/social/jwt/" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="*/*" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Cache-Control" />
+                <option name="value" value="no-cache" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parametersEnabled" value="true" />
+          <option name="haveTextToSend" value="true" />
+          <option name="textToSend" value="{&quot;client_id&quot;:&quot;5UsPOgMawiLtncNZAgJLTN459icV09vx2rUmLkpV&quot;,&quot;client_secret&quot;:&quot;cwBp2bmc92Wl2UgtMfjnyTMiUH0BOLTtk8POMPyOgmoetlsa3tQasjuhsjnXNVtfvQql4A5Tq3gO6dMe3WjJyKhMIJyG9DdFIPtk9I8tjp4dUFaDB1waUUXsEaYHoDQw&quot;,&quot;grant_type&quot;:&quot;public_profile&quot;,&quot;token&quot;:&quot;EAAD3nMkLcdwBAC6PtDIW2jv6GF66v6EGZArdDS9vq2B6WYBWOjiI9V4wZCZADKCZC8WZCKMGXHtIjuQwzLAeYgsZBQTVcG2IQq4vQxRisyauhKUXmsUe96ir3X7H4uzPDBMejapn93nNZB4yt8EZAA68RVcfN9ZCyMN3QFJ6qeWXMJTA6HbRwIRil1uFrYP9Koohz5OyCKbzZBXgZDZD&quot;, &quot;provider&quot;:&quot;facebook&quot;}" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="POST" />
+          <option name="urlBase" value="http://dev.deepali.com:8000" />
+          <option name="urlPath" value="/api/login/social/jwt/" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="*/*" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Cache-Control" />
+                <option name="value" value="no-cache" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parametersEnabled" value="true" />
+          <option name="haveTextToSend" value="true" />
+          <option name="textToSend" value="{&quot;client_id&quot;:&quot;5UsPOgMawiLtncNZAgJLTN459icV09vx2rUmLkpV&quot;,&quot;client_secret&quot;:&quot;cwBp2bmc92Wl2UgtMfjnyTMiUH0BOLTtk8POMPyOgmoetlsa3tQasjuhsjnXNVtfvQql4A5Tq3gO6dMe3WjJyKhMIJyG9DdFIPtk9I8tjp4dUFaDB1waUUXsEaYHoDQw&quot;,&quot;grant_type&quot;:&quot;public_profile&quot;,&quot;token&quot;:&quot;EAAD3nMkLcdwBAC6PtDIW2jv6GF66v6EGZArdDS9vq2B6WYBWOjiI9V4wZCZADKCZC8WZCKMGXHtIjuQwzLAeYgsZBQTVcG2IQq4vQxRisyauhKUXmsUe96ir3X7H4uzPDBMejapn93nNZB4yt8EZAA68RVcfN9ZCyMN3QFJ6qeWXMJTA6HbRwIRil1uFrYP9Koohz5OyCKbzZBXgZDZD&quot;, &quot;backend&quot;:&quot;facebook&quot;}" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="POST" />
+          <option name="urlBase" value="http://dev.deepali.com:8000" />
+          <option name="urlPath" value="/rest-auth/facebook/" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="*/*" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Cache-Control" />
+                <option name="value" value="no-cache" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parametersEnabled" value="true" />
+          <option name="haveTextToSend" value="true" />
+          <option name="textToSend" value="{&quot;client_id&quot;:&quot;5UsPOgMawiLtncNZAgJLTN459icV09vx2rUmLkpV&quot;,&quot;client_secret&quot;:&quot;cwBp2bmc92Wl2UgtMfjnyTMiUH0BOLTtk8POMPyOgmoetlsa3tQasjuhsjnXNVtfvQql4A5Tq3gO6dMe3WjJyKhMIJyG9DdFIPtk9I8tjp4dUFaDB1waUUXsEaYHoDQw&quot;,&quot;grant_type&quot;:&quot;public_profile&quot;,&quot;token&quot;:&quot;EAAD3nMkLcdwBAC6PtDIW2jv6GF66v6EGZArdDS9vq2B6WYBWOjiI9V4wZCZADKCZC8WZCKMGXHtIjuQwzLAeYgsZBQTVcG2IQq4vQxRisyauhKUXmsUe96ir3X7H4uzPDBMejapn93nNZB4yt8EZAA68RVcfN9ZCyMN3QFJ6qeWXMJTA6HbRwIRil1uFrYP9Koohz5OyCKbzZBXgZDZD&quot;, &quot;backend&quot;:&quot;facebook&quot;}" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="POST" />
+          <option name="urlBase" value="http://dev.deepali.com:8000" />
+          <option name="urlPath" value="/auth/convert-token/" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="*/*" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Cache-Control" />
+                <option name="value" value="no-cache" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parametersEnabled" value="true" />
+          <option name="haveTextToSend" value="true" />
+          <option name="textToSend" value="{&quot;client_id&quot;:272252759929308,&quot;client_secret&quot;:&quot;c4114627eab00deedefcd2a3d76474ce&quot;,&quot;grant_type&quot;:&quot;convert_token&quot;,&quot;token&quot;:&quot;EAAD3nMkLcdwBAC6PtDIW2jv6GF66v6EGZArdDS9vq2B6WYBWOjiI9V4wZCZADKCZC8WZCKMGXHtIjuQwzLAeYgsZBQTVcG2IQq4vQxRisyauhKUXmsUe96ir3X7H4uzPDBMejapn93nNZB4yt8EZAA68RVcfN9ZCyMN3QFJ6qeWXMJTA6HbRwIRil1uFrYP9Koohz5OyCKbzZBXgZDZD&quot;, &quot;backend&quot;:&quot;facebook&quot;}" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="POST" />
+          <option name="urlBase" value="http://dev.deepali.com:8000" />
+          <option name="urlPath" value="/auth/convert-token/" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="*/*" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Cache-Control" />
+                <option name="value" value="no-cache" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parametersEnabled" value="true" />
+          <option name="haveTextToSend" value="true" />
+          <option name="textToSend" value="{&quot;client_id&quot;:&quot;272252759929308&quot;,&quot;client_secret&quot;:&quot;c4114627eab00deedefcd2a3d76474ce&quot;,&quot;grant_type&quot;:&quot;convert_token&quot;,&quot;token&quot;:&quot;EAAD3nMkLcdwBAC6PtDIW2jv6GF66v6EGZArdDS9vq2B6WYBWOjiI9V4wZCZADKCZC8WZCKMGXHtIjuQwzLAeYgsZBQTVcG2IQq4vQxRisyauhKUXmsUe96ir3X7H4uzPDBMejapn93nNZB4yt8EZAA68RVcfN9ZCyMN3QFJ6qeWXMJTA6HbRwIRil1uFrYP9Koohz5OyCKbzZBXgZDZD&quot;, &quot;backend&quot;:&quot;facebook&quot;}" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="POST" />
+          <option name="urlBase" value="http://dev.deepali.com:8000" />
+          <option name="urlPath" value="/auth/convert-token/" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="*/*" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Cache-Control" />
+                <option name="value" value="no-cache" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parametersEnabled" value="true" />
+          <option name="haveTextToSend" value="true" />
+          <option name="textToSend" value="{&quot;client_id&quot;:&quot;272252759929308&quot;,&quot;client_secret&quot;:&quot;c4114627eab00deedefcd2a3d76474ce&quot;,&quot;grant_type&quot;:&quot;convert_token&quot;,&quot;token&quot;:&quot;EAAD3nMkLcdwBAC6PtDIW2jv6GF66v6EGZArdDS9vq2B6WYBWOjiI9V4wZCZADKCZC8WZCKMGXHtIjuQwzLAeYgsZBQTVcG2IQq4vQxRisyauhKUXmsUe96ir3X7H4uzPDBMejapn93nNZB4yt8EZAA68RVcfN9ZCyMN3QFJ6qeWXMJTA6HbRwIRil1uFrYP9Koohz5OyCKbzZBXgZDZD&quot;}" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="POST" />
+          <option name="urlBase" value="http://dev.deepali.com:8000" />
+          <option name="urlPath" value="/auth/convert-token/" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="*/*" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Cache-Control" />
+                <option name="value" value="no-cache" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parametersEnabled" value="true" />
+          <option name="haveTextToSend" value="true" />
+          <option name="textToSend" value="{&quot;client_id&quot;:&quot;272252759929308&quot;,&quot;client_secret&quot;:&quot;&quot;,&quot;grant_type&quot;:&quot;convert_token&quot;,&quot;token&quot;:&quot;EAAD3nMkLcdwBAC6PtDIW2jv6GF66v6EGZArdDS9vq2B6WYBWOjiI9V4wZCZADKCZC8WZCKMGXHtIjuQwzLAeYgsZBQTVcG2IQq4vQxRisyauhKUXmsUe96ir3X7H4uzPDBMejapn93nNZB4yt8EZAA68RVcfN9ZCyMN3QFJ6qeWXMJTA6HbRwIRil1uFrYP9Koohz5OyCKbzZBXgZDZD&quot;}" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="POST" />
+          <option name="urlBase" value="http://dev.deepali.com:8000" />
+          <option name="urlPath" value="/auth/convert-token/" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="*/*" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Cache-Control" />
+                <option name="value" value="no-cache" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parametersEnabled" value="true" />
+          <option name="haveTextToSend" value="true" />
+          <option name="textToSend" value="{&quot;grant_type&quot;:&quot;convert_token&quot;,&quot;token&quot;:&quot;EAAD3nMkLcdwBAC6PtDIW2jv6GF66v6EGZArdDS9vq2B6WYBWOjiI9V4wZCZADKCZC8WZCKMGXHtIjuQwzLAeYgsZBQTVcG2IQq4vQxRisyauhKUXmsUe96ir3X7H4uzPDBMejapn93nNZB4yt8EZAA68RVcfN9ZCyMN3QFJ6qeWXMJTA6HbRwIRil1uFrYP9Koohz5OyCKbzZBXgZDZD&quot;}" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="POST" />
+          <option name="urlBase" value="http://dev.deepali.com:8000" />
+          <option name="urlPath" value="/auth/convert-token/" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="*/*" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Cache-Control" />
+                <option name="value" value="no-cache" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parametersEnabled" value="true" />
+          <option name="haveTextToSend" value="true" />
+          <option name="textToSend" value="{&quot;token&quot;:&quot;EAAD3nMkLcdwBAC6PtDIW2jv6GF66v6EGZArdDS9vq2B6WYBWOjiI9V4wZCZADKCZC8WZCKMGXHtIjuQwzLAeYgsZBQTVcG2IQq4vQxRisyauhKUXmsUe96ir3X7H4uzPDBMejapn93nNZB4yt8EZAA68RVcfN9ZCyMN3QFJ6qeWXMJTA6HbRwIRil1uFrYP9Koohz5OyCKbzZBXgZDZD&quot;}" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="POST" />
+          <option name="urlBase" value="http://dev.deepali.com:8000" />
+          <option name="urlPath" value="/auth/convert_token/" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="*/*" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Cache-Control" />
+                <option name="value" value="no-cache" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parametersEnabled" value="true" />
+          <option name="haveTextToSend" value="true" />
+          <option name="textToSend" value="{&quot;token&quot;:&quot;EAAD3nMkLcdwBAC6PtDIW2jv6GF66v6EGZArdDS9vq2B6WYBWOjiI9V4wZCZADKCZC8WZCKMGXHtIjuQwzLAeYgsZBQTVcG2IQq4vQxRisyauhKUXmsUe96ir3X7H4uzPDBMejapn93nNZB4yt8EZAA68RVcfN9ZCyMN3QFJ6qeWXMJTA6HbRwIRil1uFrYP9Koohz5OyCKbzZBXgZDZD&quot;}" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="POST" />
+          <option name="urlBase" value="http://dev.deepali.com:8000" />
+          <option name="urlPath" value="/auth/" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="*/*" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Cache-Control" />
+                <option name="value" value="no-cache" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parametersEnabled" value="true" />
+          <option name="haveTextToSend" value="true" />
+          <option name="textToSend" value="{&quot;token&quot;:&quot;EAAD3nMkLcdwBAC6PtDIW2jv6GF66v6EGZArdDS9vq2B6WYBWOjiI9V4wZCZADKCZC8WZCKMGXHtIjuQwzLAeYgsZBQTVcG2IQq4vQxRisyauhKUXmsUe96ir3X7H4uzPDBMejapn93nNZB4yt8EZAA68RVcfN9ZCyMN3QFJ6qeWXMJTA6HbRwIRil1uFrYP9Koohz5OyCKbzZBXgZDZD&quot;}" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="POST" />
+          <option name="urlBase" value="http://dev.deepali.com:8000" />
+          <option name="urlPath" value="/api/login/social/jwt/" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="*/*" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Cache-Control" />
+                <option name="value" value="no-cache" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parametersEnabled" value="true" />
+          <option name="haveTextToSend" value="true" />
+          <option name="textToSend" value="{&quot;provider&quot;:&quot;facebook&quot;, &quot;code&quot;:&quot;EAAD3nMkLcdwBAL7b8EJJGRUGlNQMlRZCUMrTp4zpD0V2gTZAulSZASUTQEWfaGwWABDFysifMs6U8cpm0UeweHhwkBPxrU9PuZBGZAmM58MnvTj2ZCGqaGgVKeYcRs9wVQUYZAOCU7PDZC1ogECoEvXONoZB5HAlpxRrH3hxDOJqp3Y1j1BGCMdptWJhyaS5gQLtuUFXMx1DJzQZDZD&quot;}" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="POST" />
+          <option name="urlBase" value="http://dev.deepali.com:8000" />
+          <option name="urlPath" value="/connect/social/jwt/" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="*/*" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Cache-Control" />
+                <option name="value" value="no-cache" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parametersEnabled" value="true" />
+          <option name="haveTextToSend" value="true" />
+          <option name="textToSend" value="{&quot;provider&quot;:&quot;facebook&quot;, &quot;code&quot;:&quot;EAAD3nMkLcdwBAL7b8EJJGRUGlNQMlRZCUMrTp4zpD0V2gTZAulSZASUTQEWfaGwWABDFysifMs6U8cpm0UeweHhwkBPxrU9PuZBGZAmM58MnvTj2ZCGqaGgVKeYcRs9wVQUYZAOCU7PDZC1ogECoEvXONoZB5HAlpxRrH3hxDOJqp3Y1j1BGCMdptWJhyaS5gQLtuUFXMx1DJzQZDZD&quot;}" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="POST" />
+          <option name="urlBase" value="http://dev.deepali.com:8000" />
+          <option name="urlPath" value="/connect/social/jwt/" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="*/*" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Cache-Control" />
+                <option name="value" value="no-cache" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parametersEnabled" value="true" />
+          <option name="haveTextToSend" value="true" />
+          <option name="textToSend" value="{&quot;provider&quot;:&quot;facebook&quot;, &quot;code&quot;:&quot;EAAD3nMkLcdwBAC2797sZAMXlD0eNQiw5vFXSSZASUQF31OhZBSqHZAd39M9RBQD5JOUBKZCkZBAEZCUxZBjAYgmA45Hqq4izQDZAaBVcGFR2VH7vqcjuu1F8lKzIrn4tElz8Iqduj0c7oluZAvjtShaANnsxqDEXZBTh2G5uPVMZB5OBIzkgmnf6VPrZBvPZCh9TmxrYqy2Dm5BWlvfwZDZD&quot;}" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="POST" />
+          <option name="urlBase" value="http://dev.deepali.com:8000" />
+          <option name="urlPath" value="/connect/social/jwt/" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="*/*" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Cache-Control" />
+                <option name="value" value="no-cache" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parametersEnabled" value="true" />
+          <option name="haveTextToSend" value="true" />
+          <option name="textToSend" value="{&quot;provider&quot;:&quot;facebook&quot;, &quot;code&quot;:&quot;EAAD3nMkLcdwBANhiHfRLnvbeIllJOJhetcJoebOac6hN55QJUNDetTBmNMMIUHOvqXorNrFVfUu9qyDliOmtF1wxe646Gma435UUZA0qXQxdX2B9uqo8xCKYvnhJEHJfOZC5q7sgzdfxr9RSsx8meFweb42wZAz8FlmuzwuMz846OcbAZCyH2xjbUsmR442DmbuDyZC9arAZDZD&quot;}" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="POST" />
+          <option name="urlBase" value="http://dev.deepali.com:8000" />
+          <option name="urlPath" value="/connect/social/jwt" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="*/*" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Cache-Control" />
+                <option name="value" value="no-cache" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parametersEnabled" value="true" />
+          <option name="haveTextToSend" value="true" />
+          <option name="textToSend" value="{&quot;provider&quot;:&quot;facebook&quot;, &quot;code&quot;:&quot;EAAD3nMkLcdwBANhiHfRLnvbeIllJOJhetcJoebOac6hN55QJUNDetTBmNMMIUHOvqXorNrFVfUu9qyDliOmtF1wxe646Gma435UUZA0qXQxdX2B9uqo8xCKYvnhJEHJfOZC5q7sgzdfxr9RSsx8meFweb42wZAz8FlmuzwuMz846OcbAZCyH2xjbUsmR442DmbuDyZC9arAZDZD&quot;}" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+      </list>
+    </option>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Django server.FbApp">
+    <configuration name="FbApp" type="Python.DjangoServer" factoryName="Django server">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+        <env name="DJANGO_SETTINGS_MODULE" value="FbApp.settings" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="FbApp" />
+      <option name="launchJavascriptDebuger" value="false" />
+      <option name="port" value="8000" />
+      <option name="host" value="" />
+      <option name="additionalOptions" value="" />
+      <option name="browserUrl" value="" />
+      <option name="runTestServer" value="false" />
+      <option name="runNoReload" value="false" />
+      <option name="useCustomRunCommand" value="false" />
+      <option name="customRunCommand" value="" />
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b6c89126-c022-4627-b9e3-ea0cfa3b9a2c" name="Default" comment="" />
+      <created>1506483676595</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1506483676595</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="75" y="16" width="1323" height="780" extended-state="6" />
+    <layout>
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug Logs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="REST Client" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.40620154" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32868218" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32868218" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Execute Anonymous" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32970452" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2572549" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Salesforce" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="manage.py@FbApp" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32868218" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="1" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/FbApp/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3128">
+          <caret line="185" column="34" lean-forward="true" selection-start-line="185" selection-start-column="34" selection-end-line="185" selection-end-column="34" />
+          <folding>
+            <element signature="e#308#323#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FbApp/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="20" column="15" lean-forward="true" selection-start-line="20" selection-start-column="15" selection-end-line="20" selection-end-column="15" />
+          <folding>
+            <element signature="e#639#680#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FbApp/utils.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" column="0" lean-forward="true" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
+          <folding>
+            <element signature="e#103#118#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="122" lean-forward="false" selection-start-line="11" selection-start-column="122" selection-end-line="11" selection-end-column="122" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FbApp/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="23" column="24" lean-forward="true" selection-start-line="23" selection-start-column="24" selection-end-line="23" selection-end-column="24" />
+          <folding>
+            <element signature="e#103#138#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FbApp/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2652">
+          <caret line="157" column="41" lean-forward="false" selection-start-line="157" selection-start-column="41" selection-end-line="157" selection-end-column="41" />
+          <folding>
+            <element signature="e#308#323#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FbApp/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="23" column="21" lean-forward="true" selection-start-line="23" selection-start-column="21" selection-end-line="23" selection-end-column="21" />
+          <folding>
+            <element signature="e#639#680#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="663">
+          <caret line="39" column="37" lean-forward="false" selection-start-line="39" selection-start-column="37" selection-end-line="39" selection-end-column="37" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FbApp/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" column="43" lean-forward="false" selection-start-line="18" selection-start-column="43" selection-end-line="18" selection-end-column="43" />
+          <folding>
+            <element signature="e#103#138#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/fb_env/lib/python3.5/site-packages/social_core/backends/facebook.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="19" column="6" lean-forward="false" selection-start-line="19" selection-start-column="6" selection-end-line="19" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/fb_env/lib/python3.5/site-packages/social_core/backends/facebook.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="19" column="6" lean-forward="false" selection-start-line="19" selection-start-column="6" selection-end-line="19" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/fb_env/lib/python3.5/site-packages/rest_social_auth/urls_jwt.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-29">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#32#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/fb_env/lib/python3.5/site-packages/oauth2_provider/views/mixins.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="109">
+          <caret line="35" column="8" lean-forward="false" selection-start-line="35" selection-start-column="8" selection-end-line="35" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/fb_env/lib/python3.5/site-packages/rest_framework_social_oauth2/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="202">
+          <caret line="69" column="52" lean-forward="false" selection-start-line="69" selection-start-column="52" selection-end-line="69" selection-end-column="52" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/fb_env/lib/python3.5/site-packages/rest_framework_social_oauth2/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="11" column="41" lean-forward="true" selection-start-line="11" selection-start-column="41" selection-end-line="11" selection-end-column="41" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FbApp/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="284">
+          <caret line="185" column="34" lean-forward="false" selection-start-line="185" selection-start-column="34" selection-end-line="185" selection-end-column="34" />
+          <folding>
+            <element signature="e#308#323#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="262">
+          <caret line="133" column="56" lean-forward="true" selection-start-line="133" selection-start-column="56" selection-end-line="133" selection-end-column="56" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FbApp/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="259">
+          <caret line="24" column="0" lean-forward="false" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
+          <folding>
+            <element signature="e#103#138#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FbApp/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="140">
+          <caret line="20" column="15" lean-forward="false" selection-start-line="20" selection-start-column="15" selection-end-line="20" selection-end-column="15" />
+          <folding>
+            <element signature="e#639#680#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FbApp/utils.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="45" lean-forward="false" selection-start-line="10" selection-start-column="45" selection-end-line="10" selection-end-column="45" />
+          <folding>
+            <element signature="e#103#118#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
